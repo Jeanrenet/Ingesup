@@ -1,0 +1,7 @@
+*.o
+*.user
+*.so
+Makefile
+android-build/
+*.json
+*.user.*
